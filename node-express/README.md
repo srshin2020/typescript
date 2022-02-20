@@ -13,6 +13,9 @@
     - npm init -y
 - express 설치
     - npm i express
+    - npm i -D ts-node 
+    - npm i -D @types/express
+    - 생략 (npm i -D typescript @types/node)
 
 ### 실행
 - 컴파일
