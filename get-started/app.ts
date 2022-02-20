@@ -7,6 +7,7 @@ let ordername: string | number;
 
 let orderId: stringNumber;
 let itemPrice: number;
+let itemArray: string[];
 
 //type guard
 const setItemPrice = (price: stringNumber): void => {

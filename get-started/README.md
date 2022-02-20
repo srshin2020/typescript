@@ -2,9 +2,10 @@
 
 ### youtube 강좌
 - https://www.youtube.com/playlist?list=PLJf6aFJoJtbUXW6T4lPUk7C66yEneX7MN
-
+    - 타입스크립트 (Typescript)
+    - 땅콩코딩
 ### get started
-- global로 설치
+- global로 typescript 설치
     - sudo npm install -g typescript
 - 컴파일
     - tsc [file_name.ts]

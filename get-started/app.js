@@ -3,6 +3,7 @@
 let ordername;
 let orderId;
 let itemPrice;
+let itemArray;
 //type guard
 const setItemPrice = (price) => {
     if (typeof price === 'number')
