@@ -22,6 +22,8 @@
         "template": "./custom-template",  
         "encoding": "utf8",  
         "destination": "./docs/",         
-        "recurse": true              
+        "recurse": true,
+        "tutorials" : "./tutorials",
+        "readme": "./readme.md"           
     }
 }

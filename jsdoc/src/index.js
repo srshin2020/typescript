@@ -1,5 +1,11 @@
 // @ts-check
 const { add, multiply } = require('./calculator');
+
+/**
+ * @file index.js is the root file of this example
+ * @author Dabeeo Corp.
+ * @see <a href='www.dabeeo.com' >dabeeo</a>
+ */
 /**
  * Student Name
  * 학생 이름을 저장한다
