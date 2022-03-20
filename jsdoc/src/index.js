@@ -1,4 +1,5 @@
 // @ts-check
+const { add, multiply } = require('./calculator');
 /**
  * Student Name
  * 학생 이름을 저장한다
@@ -75,3 +76,5 @@ class Person {
  * See {@link Person}
  */
 const person = new Person({ name: 'TOMMY', age: 20 });
+
+console.log(add(1, 20));
